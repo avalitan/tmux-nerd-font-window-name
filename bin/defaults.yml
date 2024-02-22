@@ -1,7 +1,7 @@
 # cSpell:disable
 config:
-  fallback-icon: "?"
-  show-name: true
+  fallback_icon: "?"
+  show_name: true
 
 icons:
   apt: ""
